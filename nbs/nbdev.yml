@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mmm-bayes"
+  site-url: "https://redam94.github.io/mmm-bayes"
+  description: "MMM using bayesian methods"
+  repo-branch: main
+  repo-url: "https://github.com/redam94/mmm-bayes"
